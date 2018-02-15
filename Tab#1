@@ -3,11 +3,20 @@
 <head>
 <title>TAB#1</title>
 <body style = "background-color:green";>
+<tr>
+<th><a href = "index.html">HOME PAGE</a></th>
+<th><a href = "Tab#1">Information</a></th>
+
+
+</tr>
 <h1>INFORMATION ABOUT.......<br><b>REDUCE,REUSE,RECYCLE</b></h1>
 <h2>Don't worry! It's easy to help out doing these stuff! Here are some ideas....</h2>
 <br>
 <ol>
 <li>Whenever you see Recycling Cans, Bottles or any type of paper on the floor pick it up!</li>
+<li>Tell you friends and family members to recycle</li>
+<li> Save any cardboard or any other supplies to do some projects</li>
+<li><b>AND MANY MORE</b></li>
 
 
 </ol>
